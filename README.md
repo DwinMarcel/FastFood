@@ -44,7 +44,7 @@ La verdad, ser analista de datos viéndolo desde el punto de vista del estudiant
 Falencias.
 los datos que contiene cada tabla son muy escasos para hacer un análisis a profundidad sobre el performance de la empresa
 Algunas preguntas con relación al proyecto no brindaban un panorama general para realizar un análisis acorde como, por ejemplo: 'Conocer la sucursal a la que está asignado cada empleado'. En esta pregunta en específico hubo que incluir el departamento en la consulta para brindar un panorama más general sobre los empleados, ya que todos pertenecen a una sola sucursal.
-O también la pregunta de ¿Cómo se comparan las ventas mensuales de este año con el año anterior?. Esta pregunta al igual que la anterior también está mal fundada ya que en los datos solo nos brindan un año que es 2023
+O también la pregunta de ¿Cómo se comparan las ventas mensuales de este año con el año anterior?. Esta pregunta al igual que la anterior también está mal fundada ya que en los datos solo nos brindan un año que es 2023.
 
 Mejoras.
 Para mejorar estas falencias, yo trabajaría en la recopilación de datos adicionales para enriquecer la base de datos. Esto podría implicar recopilar información detallada sobre ventas, empleados, clientes y productos a lo largo del tiempo para obtener una visión más completa del rendimiento de la empresa.
